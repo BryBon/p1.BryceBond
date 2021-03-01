@@ -32,4 +32,4 @@ The most common sequence of actions the user will do is press the buttons on the
 
 My design keeps the time window , the num pad, start and stop, and changes the 1 minute button to a 30 second button. This 30 sec button will allow the user to add 30 seconds to the total cook time. This button can be pressed either before the cook time starts or during. I decided to remove the extra functions, such as defrost and melt, since these were time and power settings. I instead gave a button to control power, which would allow more control over the usage of the microwave.
 
-![Image](Final Sketch.JPG)
+![Image](final sketch.JPG)
