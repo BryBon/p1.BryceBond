@@ -30,10 +30,6 @@ In general, I use to reheat food. To do this, I don’t use the reheat option, I
 
 The most common sequence of actions the user will do is press the buttons on the numpad to equal a time that they want to use the microwave, and they will press start. The microwave will run until the timer ends, which will make it beep. If the user uses the 1 minute button, it starts a 1 minute cook time and will end. Pressing this button again while the microwave is in operation does nothing. Besides the ending beep, the microwave also beeps per button press. This is the only amount of feedback this interface gives. This interface tells the user what a button does in theory, but does not really give the user any other support to help a user to use it. If a user wants to do something more complicated than simply reheating, a user can make several errors. This stems from the lack of any proper feedback from the interface. A user can make the microwave cook for much longer than they want it to, or too short. The user can also make the microwave cook at a much lower or higher power than they want it to. This can compound on each other and cause the user to ruin whatever they were cooking.
 
-My design keeps the time window , the num pad, start and stop, and changes the 1 minute button to a 30 second button. This 30 sec button will allow the user to add 30 seconds to the total cook time. This button can be pressed either before the cook time starts or during. 
+My design keeps the time window , the num pad, start and stop, and changes the 1 minute button to a 30 second button. This 30 sec button will allow the user to add 30 seconds to the total cook time. This button can be pressed either before the cook time starts or during. I decided to remove the extra functions, such as defrost and melt, since these were time and power settings. I instead gave a button to control power, which would allow more control over the usage of the microwave.
 
-![Image](Sketch 1.JPG)
-
-The extra options have been moved to another button. This button changes the screen to show buttons that have the extra options. When pressed, it will tell the user what that button does in the info window. 
-
-![Image](Sketch 2.JPG)
+![Image](Final Sketch.JPG)
